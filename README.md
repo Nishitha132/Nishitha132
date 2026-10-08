@@ -39,6 +39,6 @@ CGPA: 8.42
 
 ## Contact
 
-- 📧 Email: youremail@example.com
-- 💼 LinkedIn: [your-name](https://www.linkedin.com/in/your-name)
-- 🌐 Portfolio website: https://your-username.github.io
+- 📧 Email: nishitha91207@gmail.com
+- 💼 LinkedIn: [nishitha](https://www.linkedin.com/in/nishitha)
+- 🌐 Portfolio website: https://Nishitha132.github.io
